@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { useChat } from "ai/react";
 import CharacterTable from './components/CharacterTable';
-import ChatWindow from './components/ChatWindow';
+// import ChatWindow from './components/ChatWindow';
 import Design from './components/design';
 
 interface Character {
